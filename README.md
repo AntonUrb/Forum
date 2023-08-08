@@ -22,9 +22,9 @@ http://localhost:8080/ <br>
 https://github.com/01-edu/public/tree/master/subjects/forum/audit
 
 # Ready users (password)
-BlackPike (123)
-Nerd (123)
-Sportman (123)
+BlackPike (123) <br>
+Nerd (123) <br>
+Sportman (123) <br>
 
 # Authors
  * Namimori 
