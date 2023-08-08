@@ -17,7 +17,7 @@ Insert the following to your VS code terminal:
 
 **Opening the forum:** <br>
 - Open local server in the browser. <br>
-Link: http://localhost:8080/ <br>
+http://localhost:8080/ <br>
 - Check if the audit questions are answered, you can find the questions at: <br>
 https://github.com/01-edu/public/tree/master/subjects/forum/audit
 
