@@ -16,9 +16,9 @@ Insert the following to your VS code terminal:
 "bash build.sh" <br>
 
 **Opening the forum:** <br>
-Open local server in the browser. <br>
+- Open local server in the browser. <br>
 Link: http://localhost:8080/ <br>
-Check if the audit questions are answered, you can find the questions at: <br>
+- Check if the audit questions are answered, you can find the questions at: <br>
 https://github.com/01-edu/public/tree/master/subjects/forum/audit
 
 # Ready users (password)
