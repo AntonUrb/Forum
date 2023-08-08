@@ -14,6 +14,7 @@ https://www.docker.com/get-started <br>
 - Download the docker extension for your VS code. <br>
 Insert the following to your VS code terminal:
 "bash build.sh" <br>
+
 **Opening the forum:** <br>
 Open local server in the browser. <br>
 Link: http://localhost:8080/ <br>
