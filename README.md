@@ -31,6 +31,5 @@ Sportman (123) <br>
  * Htrauzer
  * BlackPike 
  * Anton (Urban)
- * Robin Rattasepp
 
 # Enjoy!
